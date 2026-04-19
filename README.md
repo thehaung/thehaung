@@ -4,7 +4,7 @@
 </a>
 <br />
 
-Hi, I'm [Hau Nguyen](https://github.com/thehaung), I'm a Software Engineer</br>
+</br>Hi, I'm [Hau Nguyen](https://github.com/thehaung), I'm a Software Engineer</br>
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.  
 
 **Favorite:**
