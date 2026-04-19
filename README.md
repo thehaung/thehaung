@@ -1,6 +1,6 @@
 ### Hey There!!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/thehaung/">
-  <img align="left" alt="Hau Nguyen Linkedin" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/3840px-LinkedIn_2021.svg.png" />
+  <img align="left" alt="Hau Nguyen Linkedin" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/LinkedIn_2021.svg/3840px-LinkedIn_2021.svg.png" />
 </a>
 <br />
 
